@@ -4,7 +4,7 @@
 ul{
     text-align: center;
 }
-ul{
+th, td{
     border: solid 6px;
     background-color: pink;
     font-size: 40px;
@@ -16,7 +16,7 @@ li{
     background-color: pink;
     box-sizing: border-box; 
 }
-p{
+th, td{
     border: solid 6px;
     background-color: pink;
     box-sizing: border-box;
