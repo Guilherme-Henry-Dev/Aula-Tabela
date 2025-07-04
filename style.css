@@ -6,7 +6,7 @@ ul{
 }
 th, td{
     border: solid 6px;
-    background-color: pink;
+    background-color: rgb(255, 0, 43);
     font-size: 40px;
     text-align: center;
     margin:0 auto
