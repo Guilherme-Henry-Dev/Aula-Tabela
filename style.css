@@ -8,18 +8,6 @@ th, td{
     border: solid 6px;
     background-color: pink;
     font-size: 40px;
-    margin:0 auto
-}
-
-li{
-    border: solid 6px;
-    background-color: pink;
-    box-sizing: border-box; 
-}
-th, td{
-    border: solid 6px;
-    background-color: pink;
-    box-sizing: border-box;
-    font-size: 40px;
     text-align: center;
+    margin:0 auto
 }
