@@ -1,9 +1,6 @@
 .negrito {
   font-weight: bold;
-}
-ul{
-    text-align: center;
-}
+  }
 th, td{
     border: solid 6px;
     background-color: rgb(255, 0, 43);
